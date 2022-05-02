@@ -1,10 +1,10 @@
 # Pwelett_Hackard_Analysis
 ## Overview
 
-#### Overview of Analysis
+### Overview of Analysis
 For this analysis we were taking a closer look at employees that are close retiring to help a company better prepare for a large number of employees leaving. Our analysis will hopefully allow for the company to be better prepared for this "silver tsunami" and will be able to quickly fill the needed roles and keep the business running as usual. 
 
-#### Results
+### Results
 1. The most Senior Engineers are leaving so you will want to ensure that there are some other highly skilled engineers that can fill their shoes. 
 2. There are 256,694 employees that are eligible for the mentorship the could help fill the space of the employees retiring
 3. There are only 2 managers retiring so finding new managers is not as much of a concern
