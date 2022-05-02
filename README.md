@@ -11,7 +11,7 @@ For this analysis we were taking a closer look at employees that are close retir
 4. Replacing Senior Staff will also be a concern with it coming in as a close second to Senior Engineers
 
 
-# #Summary
+## Summary
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 In total 72,458 emmployees will be leaving as part of the silver tsunami all of their roles will need to be filled. 
 
